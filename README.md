@@ -1,4 +1,3 @@
-/opt/homebrew/Library/Homebrew/cmd/shellenv.sh: line 18: /bin/ps: Operation not permitted
 # Brazilian wheat pedigree data
 
 This repository contains pedigree records and a numerator additive relationship matrix associated with the article:
